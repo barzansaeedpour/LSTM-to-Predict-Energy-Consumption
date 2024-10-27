@@ -1,0 +1,13 @@
+Dataset:
+
+https://data.ukedc.rl.ac.uk/browse/edc/efficiency/residential/EnergyConsumption/Domestic/UK-DALE-2017/ReadMe_DALE-2017.html
+
+https://data.ukedc.rl.ac.uk/browse/edc/efficiency/residential/EnergyConsumption/Domestic/UK-DALE-2015
+
+Paper With Code:
+
+https://paperswithcode.com/dataset/uk-dale
+https://www.kaggle.com/code/kerneler/starter-uk-dale-dataset-house-2-june-f23f2be6-a
+https://www.kaggle.com/datasets/noohshaikh/ukdale-dataset-house-2-june-to-september-2013/code
+
+
